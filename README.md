@@ -26,3 +26,10 @@ Its GitHub project: https://github.com/ahmedfgad/NeuralGenetic
 
 Its GitHub project: https://github.com/ahmedfgad/FeatureReductionGenetic
 
+## For Contacting Me
+* E-mail: ahmed.f.gad@gmail.com
+* LinkedIn: https://linkedin.com/in/ahmedfgad/
+* Hearbeat: https://heartbeat.fritz.ai/@ahmedfgad
+* KDnuggets: https://kdnuggets.com/author/ahmed-gad
+* TowardsDataScience: https://towardsdatascience.com/@ahmedfgad
+* GitHub: https://github.com/ahmedfgad
