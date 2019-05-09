@@ -10,8 +10,8 @@ After the ANN is trained successfully, a Kivy desktop application is created tha
 After making sure the desktop application is working successfully, the Kivy application is exported into an Android application using Buildozer and python-4-android. Within it, a test image could be fed into the pre-trained ANN for classifying it. For building the Android application, the **buildozer.spec** file is requirdd. 
 
 The next figure shows the window of the application after running it in Linux.
-https://user-images.githubusercontent.com/16560492/57416236-a5933d00-71ff-11e9-8d3a-f87ab14f35ba.png
+![5](https://user-images.githubusercontent.com/16560492/57416236-a5933d00-71ff-11e9-8d3a-f87ab14f35ba.png)
 
 For details about building the ANN from scratch in NumPy, extracting the features, optimization using GA, and feature reduction, you can read my previous tutorials that covers these points in details.
 
-[Artificial Neural Network Implementation using NumPy and Classification of the Fruits360 Image Dataset] (https://www.linkedin.com/pulse/artificial-neural-network-implementation-using-numpy-fruits360-gad)
+![Artificial Neural Network Implementation using NumPy and Classification of the Fruits360 Image Dataset] (https://www.linkedin.com/pulse/artificial-neural-network-implementation-using-numpy-fruits360-gad)
