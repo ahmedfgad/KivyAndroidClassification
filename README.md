@@ -1,7 +1,7 @@
 # KivyAndroidClassification
 Image Classification for Android using Artificial Neural Network using NumPy and Kivy.
 
-This project runs a pre-trained artificial neural network (ANN) in Android. The ANN is built using NumPy (Numerical Python). In order to be able to run NumPy in Android, the Kivy framework is used for running NumPy on top of it. Kivy is a cross-platform Python framework which supports packaging Python libraries within the APK file. 
+This project runs a pre-trained artificial neural network (ANN) in Android for image classification. The ANN is built using NumPy (Numerical Python). In order to be able to run NumPy in Android, the Kivy framework is used for running NumPy on top of it. Kivy is a cross-platform Python framework which supports packaging Python libraries within the APK file. 
 
 The ANN created using NumPy is trained in a desktop computer using 4 classes from the Fruits360 dataset which are apple Braeburn, lemon Meyer, mango, and raspberry. The weights of the ANN are optimized using the genetic algorithm (GA). The optimized weights are saved in a NumPy binary file (.npy). This file is named **weights.npy**.
 
