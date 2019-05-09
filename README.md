@@ -14,4 +14,9 @@ The next figure shows the window of the application after running it in Linux.
 
 For details about building the ANN from scratch in NumPy, extracting the features, optimization using GA, and feature reduction, you can read my previous tutorials that covers these points in details.
 
-![Artificial Neural Network Implementation using NumPy and Classification of the Fruits360 Image Dataset] (https://www.linkedin.com/pulse/artificial-neural-network-implementation-using-numpy-fruits360-gad)
+[Artificial Neural Network Implementation using NumPy and Classification of the Fruits360 Image Dataset](https://www.linkedin.com/pulse/artificial-neural-network-implementation-using-numpy-fruits360-gad) Its GitHub project: https://github.com/ahmedfgad/NumPyANN
+
+[Artificial Neural Networks Optimization using Genetic Algorithm with Python](https://www.linkedin.com/pulse/artificial-neural-networks-optimization-using-genetic-ahmed-gad) Its GitHub project: https://github.com/ahmedfgad/NeuralGenetic
+
+[Feature Reduction using Genetic Algorithm with Python](https://www.linkedin.com/pulse/feature-reduction-using-genetic-algorithm-ahmed-gad) Its GitHub project: https://github.com/ahmedfgad/FeatureReductionGenetic
+
